@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá 👋
 
+Estou estudando programação e deixo minhas anotações sobre cada tópico no [Notion](https://www.notion.so/2d2df6b5c75380f58747f59138850998?v=2d2df6b5c753804cbc69000c98626e22&source=copy_link), se tiver interesse em olhar e me dar um feedback, ajudaria muito!
 <!--
 **aleblima/aleblima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
